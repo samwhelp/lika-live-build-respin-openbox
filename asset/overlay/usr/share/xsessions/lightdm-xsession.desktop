@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
 Name=Default Xsession
-Exec=startxfce4
+Exec=openbox-session
 Icon=
 Type=Application
